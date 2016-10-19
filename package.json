@@ -1,13 +1,14 @@
 {
-  "name": "templates",
+  "name": "moonbaby_templates",
   "version": "1.0.1",
   "description": "angular 2 components for website page layouts",
+  "main" : "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/StephenMiracle/angular2-components.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "stephenmiracle",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/StephenMiracle/angular2-components/issues"
   },

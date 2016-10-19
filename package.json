@@ -13,7 +13,7 @@
   },
   "homepage": "https://github.com/StephenMiracle/angular2-components#readme",
   "dependencies": {
-    "@angular/core": "~2.1.*,
+    "@angular/core": "~2.1.*",
     "@angular/common" : "~2.1.*"
   }
 }

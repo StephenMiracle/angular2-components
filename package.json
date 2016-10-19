@@ -1,0 +1,19 @@
+{
+  "name": "templates",
+  "version": "1.0.0",
+  "description": "angular 2 components for website page layouts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StephenMiracle/angular2-components.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StephenMiracle/angular2-components/issues"
+  },
+  "homepage": "https://github.com/StephenMiracle/angular2-components#readme",
+  "dependencies": {
+    "@angular/core": "~2.1.*,
+    "@angular/common" : "~2.1.*"
+  }
+}
